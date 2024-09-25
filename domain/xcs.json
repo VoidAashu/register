@@ -1,0 +1,12 @@
+{
+    "description": "This is my goofy dev profile domain just making some first step towards it",
+    "repo": "https://github.com/VoidAashu/register.git",
+    "owner": {
+      "username": "VoidAashu",
+      "email": "xcsdcbiz@gmail.com"
+    },
+    "record": {
+      "TXT": "dh=8743e5a0747d5fdc69ba0b140258f029874544ee" 
+    }
+  }
+  
